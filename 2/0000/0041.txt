@@ -1,6 +1,6 @@
-The Hall of Fame!
-The End
-Congratulations on\xfffebeating the game!
-Saving...\xfffeDon't turn off the power.
-\xf000Ā\x0001\x0000 saved the game.
-There is already a saved game file.\xfffeIt is impossible to save.
+Dewan Kemasyhuran!
+Akhir
+Selamat dalam\xfffemenyelesaikan permainan!
+Menyimpan...\xfffeJangan matikan mesin.
+\xf000Ā\x0001\x0000 telah meyimpan permainan.
+Sudah ada simpanan permainan.\xfffeMustahil untuk di simpan.
