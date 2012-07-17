@@ -1,20 +1,20 @@
 ▲
 POKÉDEX
 POKÉMON
-BAG
+BEG
 RADIO
-SAVE
-OPTIONS　　
+SIMPAN
+PILIHAN　　
 
-CHAT
+BERBUAL
 
-RETIRE
-Pokédex selected.
-Pokémon Status selected.
-Bag selected.
-Trainer Card selected.
-Save selected.
-Options selected.
-Now saving.
-The game was\xfffesuccessfully saved!
-Can't save while communicating.
+BERSARA
+Pokédex dipilih.
+Status Pokémon dipilih.
+Beg dipilih.
+Kartu Pelatih dipilih.
+Simpanan dipilih.
+Pilihan dipilih.
+Menyimpan.
+Permainan telah\xfffeberhasil disimpan!
+Tak bisa simpan saat komunikasi.
